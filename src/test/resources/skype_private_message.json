@@ -1,0 +1,20 @@
+{
+  "type": "message",
+  "id": "1eb3dWkzOg9pe5tw",
+  "timestamp": "2016-10-04T07:48:13.759Z",
+  "serviceUrl": "https://skype.botframework.com",
+  "channelId": "skype",
+  "from": {
+    "id": "29:1y4hJVzWyFW0UgIeh2OqckhYIIO8zVGePmUFxgfZ3Ids",
+    "name": "Maksym_Zinkevych"
+  },
+  "conversation": {
+    "id": "29:1y4hJVzWyFW0UgIeh2OqckhYIIO8zVGePmUFxgfZ3Ids"
+  },
+  "recipient": {
+    "id": "28:390688c6-0ed9-4876-9f4e-4c0ec3f7e011",
+    "name": "Chuck Norris"
+  },
+  "text": "hi",
+  "entities": []
+}

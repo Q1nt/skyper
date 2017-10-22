@@ -1,0 +1,19 @@
+
+{
+  "cache_time": 10,
+  "config": {
+    "field": "file",
+    "query": "",
+    "show_data_table": true,
+    "show_pie_chart": false,
+    "stream_id": "576a7e34715df00906da9671",
+    "timerange": {
+      "range": 3600,
+      "type": "relative"
+    }
+  },
+  "creator_user_id": "epadmin",
+  "description": "Last hour stats",
+  "id": "414df6ec-6b78-458e-b2fd-a8505fc24f76",
+  "type": "QUICKVALUES"
+}

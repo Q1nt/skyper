@@ -1,0 +1,21 @@
+{
+  "type": "message",
+  "id": "2nIhdMkzT9vHBEo4",
+  "timestamp": "2016-10-22T14:03:26.795Z",
+  "serviceUrl": "https://skype.botframework.com",
+  "channelId": "skype",
+  "from": {
+    "id": "29:1S2nOnjbgrzo9uw5TnhuUH3fgh71oqJJGSSD_9l7l57c",
+    "name": "Maksym_Zinkevych"
+  },
+  "conversation": {
+    "isGroup": true,
+    "id": "19:9becd4deed7447f6bb03e3f555c21715@thread.skype"
+  },
+  "recipient": {
+    "id": "28:561ec98c-bf7f-49cf-a1b9-1e93d975e216",
+    "name": "John"
+  },
+  "text": "ну чото както так",
+  "entities": []
+}

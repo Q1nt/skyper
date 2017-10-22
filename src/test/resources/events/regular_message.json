@@ -1,0 +1,20 @@
+{
+  "type": "message",
+  "id": "3M2aWEkzT9uGNEbg",
+  "timestamp": "2016-10-22T14:01:53.99Z",
+  "serviceUrl": "https://skype.botframework.com",
+  "channelId": "skype",
+  "from": {
+    "id": "29:1uMBQ4nNNBd2BtwBcUZy44_DOiYn2KCBsBy1V_1gUopM",
+    "name": "Solohub Serhii"
+  },
+  "conversation": {
+    "id": "29:1uMBQ4nNNBd2BtwBcUZy44_DOiYn2KCBsBy1V_1gUopM"
+  },
+  "recipient": {
+    "id": "28:561ec98c-bf7f-49cf-a1b9-1e93d975e216",
+    "name": "John"
+  },
+  "text": "hi",
+  "entities": []
+}

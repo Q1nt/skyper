@@ -1,0 +1,29 @@
+{
+  "type": "conversationUpdate",
+  "id": "5jZlKV51qP6",
+  "timestamp": "2016-10-22T14:03:21.607Z",
+  "serviceUrl": "https://skype.botframework.com",
+  "channelId": "skype",
+  "from": {
+    "id": "29:1S2nOnjbgrzo9uw5TnhuUH3fgh71oqJJGSSD_9l7l57c"
+  },
+  "conversation": {
+    "isGroup": true,
+    "id": "19:9becd4deed7447f6bb03e3f555c21715@thread.skype"
+  },
+  "recipient": {
+    "id": "28:561ec98c-bf7f-49cf-a1b9-1e93d975e216",
+    "name": "John"
+  },
+  "membersAdded": [
+    {
+      "id": "28:561ec98c-bf7f-49cf-a1b9-1e93d975e216"
+    },
+    {
+      "id": "29:1uMBQ4nNNBd2BtwBcUZy44_DOiYn2KCBsBy1V_1gUopM"
+    },
+    {
+      "id": "29:1S2nOnjbgrzo9uw5TnhuUH3fgh71oqJJGSSD_9l7l57c"
+    }
+  ]
+}

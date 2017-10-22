@@ -1,0 +1,17 @@
+{
+  "cache_time": 10,
+  "config": {
+    "lower_is_better": true,
+    "query": "",
+    "stream_id": "576a7e34715df00906da9671",
+    "timerange": {
+      "range": 3600,
+      "type": "relative"
+    },
+    "trend": true
+  },
+  "creator_user_id": "epadmin",
+  "description": "Last hour count",
+  "id": "21fcfa35-aa9b-4786-8899-b7808a1af825",
+  "type": "STREAM_SEARCH_RESULT_COUNT"
+}

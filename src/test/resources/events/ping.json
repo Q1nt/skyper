@@ -1,0 +1,16 @@
+{
+  "type": "ping",
+  "id": "BEfXUNJE1QD",
+  "timestamp": "0001-01-01T00:00:00",
+  "serviceUrl": "https://dev.botframework.com/",
+  "channelId": "test",
+  "from": {
+    "id": "portal"
+  },
+  "conversation": {
+    "id": "ping"
+  },
+  "recipient": {
+    "id": "bot"
+  }
+}

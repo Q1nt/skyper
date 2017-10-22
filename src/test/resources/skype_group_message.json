@@ -1,0 +1,29 @@
+{
+  "type": "message",
+  "id": "2kyIofkzOgrrVxvU",
+  "timestamp": "2016-10-04T08:55:27.505Z",
+  "serviceUrl": "https://skype.botframework.com",
+  "channelId": "skype",
+  "from": {
+    "id": "29:1y4hJVzWyFW0UgIeh2OqckhYIIO8zVGePmUFxgfZ3Ids",
+    "name": "Maksym_Zinkevych"
+  },
+  "conversation": {
+    "isGroup": true,
+    "id": "19:c0571c4397b04a038edebf3950dcd067@thread.skype"
+  },
+  "recipient": {
+    "id": "28:390688c6-0ed9-4876-9f4e-4c0ec3f7e011",
+    "name": "Chuck Norris"
+  },
+  "text": "<at id=\"28:390688c6-0ed9-4876-9f4e-4c0ec3f7e011\">@EPMC-CLO-CI</at> w",
+  "entities": [
+    {
+      "mentioned": {
+        "id": "28:390688c6-0ed9-4876-9f4e-4c0ec3f7e011"
+      },
+      "text": "<at id=\"28:390688c6-0ed9-4876-9f4e-4c0ec3f7e011\">@EPMC-CLO-CI</at>",
+      "type": "mention"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "contactRelationUpdate",
+  "id": "Ko35ctGr02y",
+  "timestamp": "2016-10-22T14:02:57.707Z",
+  "serviceUrl": "https://skype.botframework.com",
+  "channelId": "skype",
+  "from": {
+    "id": "29:1S2nOnjbgrzo9uw5TnhuUH3fgh71oqJJGSSD_9l7l57c",
+    "name": "Maksym_Zinkevych"
+  },
+  "conversation": {
+    "id": "29:1S2nOnjbgrzo9uw5TnhuUH3fgh71oqJJGSSD_9l7l57c"
+  },
+  "recipient": {
+    "id": "28:561ec98c-bf7f-49cf-a1b9-1e93d975e216",
+    "name": "John"
+  },
+  "action": "add"
+}

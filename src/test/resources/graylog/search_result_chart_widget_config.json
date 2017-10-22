@@ -1,0 +1,16 @@
+{
+  "cache_time": 10,
+  "config": {
+    "interval": "minute",
+    "query": "",
+    "stream_id": "576a7e34715df00906da9671",
+    "timerange": {
+      "range": 3600,
+      "type": "relative"
+    }
+  },
+  "creator_user_id": "epadmin",
+  "description": "Last hour",
+  "id": "89d74466-d166-4a57-963e-e275c1d60df0",
+  "type": "SEARCH_RESULT_CHART"
+}

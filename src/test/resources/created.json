@@ -1,0 +1,171 @@
+{
+  "timestamp": 1474410795388,
+  "webhookEvent": "jira:issue_created",
+  "user": {
+    "self": "http://jira-host/rest/api/2/user?username=admin",
+    "name": "admin",
+    "key": "admin",
+    "emailAddress": "botovod_aa@mail.ru",
+    "avatarUrls": {
+      "16x16": "http://jira-host/secure/useravatar?size=xsmall&ownerId=admin&avatarId=10400",
+      "24x24": "http://jira-host/secure/useravatar?size=small&ownerId=admin&avatarId=10400",
+      "32x32": "http://jira-host/secure/useravatar?size=medium&ownerId=admin&avatarId=10400",
+      "48x48": "http://jira-host/secure/useravatar?ownerId=admin&avatarId=10400"
+    },
+    "displayName": "Nuare Lumumba",
+    "active": true,
+    "timeZone": "Europe/Kiev"
+  },
+  "issue": {
+    "id": "10001",
+    "self": "http://jira-host/rest/api/2/issue/10001",
+    "key": "PROJECT-CODE-2",
+    "fields": {
+      "progress": {
+        "progress": 0,
+        "total": 0
+      },
+      "summary": "investigate",
+      "timetracking": {},
+      "issuetype": {
+        "self": "http://jira-host/rest/api/2/issuetype/10001",
+        "id": "10001",
+        "description": "Created by JIRA Agile - do not edit or delete. Issue type for a user story.",
+        "iconUrl": "http://jira-host/images/icons/ico_story.png",
+        "name": "Story",
+        "subtask": false
+      },
+      "votes": {
+        "self": "http://jira-host/rest/api/2/issue/PROJECT-CODE-2/votes",
+        "votes": 0,
+        "hasVoted": false
+      },
+      "resolution": null,
+      "fixVersions": [],
+      "resolutiondate": null,
+      "timespent": null,
+      "creator": {
+        "self": "http://jira-host/rest/api/2/user?username=admin",
+        "name": "admin",
+        "key": "admin",
+        "emailAddress": "botovod_aa@mail.ru",
+        "avatarUrls": {
+          "16x16": "http://jira-host/secure/useravatar?size=xsmall&ownerId=admin&avatarId=10400",
+          "24x24": "http://jira-host/secure/useravatar?size=small&ownerId=admin&avatarId=10400",
+          "32x32": "http://jira-host/secure/useravatar?size=medium&ownerId=admin&avatarId=10400",
+          "48x48": "http://jira-host/secure/useravatar?ownerId=admin&avatarId=10400"
+        },
+        "displayName": "Nuare Lumumba",
+        "active": true,
+        "timeZone": "Europe/Kiev"
+      },
+      "reporter": {
+        "self": "http://jira-host/rest/api/2/user?username=admin",
+        "name": "admin",
+        "key": "admin",
+        "emailAddress": "botovod_aa@mail.ru",
+        "avatarUrls": {
+          "16x16": "http://jira-host/secure/useravatar?size=xsmall&ownerId=admin&avatarId=10400",
+          "24x24": "http://jira-host/secure/useravatar?size=small&ownerId=admin&avatarId=10400",
+          "32x32": "http://jira-host/secure/useravatar?size=medium&ownerId=admin&avatarId=10400",
+          "48x48": "http://jira-host/secure/useravatar?ownerId=admin&avatarId=10400"
+        },
+        "displayName": "Nuare Lumumba",
+        "active": true,
+        "timeZone": "Europe/Kiev"
+      },
+      "aggregatetimeoriginalestimate": null,
+      "created": "2016-09-20T23:33:15.110+0100",
+      "updated": "2016-09-20T23:33:15.110+0100",
+      "description": null,
+      "priority": {
+        "self": "http://jira-host/rest/api/2/priority/3",
+        "iconUrl": "http://jira-host/images/icons/priorities/medium.png",
+        "name": "Medium",
+        "id": "3"
+      },
+      "duedate": null,
+      "customfield_10001": null,
+      "customfield_10002": null,
+      "customfield_10003": null,
+      "issuelinks": [],
+      "customfield_10004": null,
+      "watches": {
+        "self": "http://jira-host/rest/api/2/issue/PROJECT-CODE-2/watchers",
+        "watchCount": 0,
+        "isWatching": false
+      },
+      "worklog": {
+        "startAt": 0,
+        "maxResults": 20,
+        "total": 0,
+        "worklogs": []
+      },
+      "customfield_10000": null,
+      "subtasks": [],
+      "customfield_10009": "0|i00007:",
+      "status": {
+        "self": "http://jira-host/rest/api/2/status/10000",
+        "description": "",
+        "iconUrl": "http://jira-host/images/icons/subtask.gif",
+        "name": "To Do",
+        "id": "10000",
+        "statusCategory": {
+          "self": "http://jira-host/rest/api/2/statuscategory/2",
+          "id": 2,
+          "key": "new",
+          "colorName": "blue-gray",
+          "name": "To Do"
+        }
+      },
+      "labels": [],
+      "customfield_10005": "PROJECT-CODE-1",
+      "workratio": -1,
+      "assignee": null,
+      "attachment": [],
+      "aggregatetimeestimate": null,
+      "project": {
+        "self": "http://jira-host/rest/api/2/project/10000",
+        "id": "10000",
+        "key": "PROJECT-CODE",
+        "name": "EPM-CIT8",
+        "avatarUrls": {
+          "16x16": "http://jira-host/secure/projectavatar?size=xsmall&avatarId=10011",
+          "24x24": "http://jira-host/secure/projectavatar?size=small&avatarId=10011",
+          "32x32": "http://jira-host/secure/projectavatar?size=medium&avatarId=10011",
+          "48x48": "http://jira-host/secure/projectavatar?avatarId=10011"
+        }
+      },
+      "versions": [],
+      "environment": null,
+      "timeestimate": null,
+      "aggregateprogress": {
+        "progress": 0,
+        "total": 0
+      },
+      "lastViewed": null,
+      "components": [],
+      "comment": {
+        "startAt": 0,
+        "maxResults": 0,
+        "total": 0,
+        "comments": []
+      },
+      "timeoriginalestimate": null,
+      "aggregatetimespent": null
+    }
+  },
+  "changelog": {
+    "id": "10003",
+    "items": [
+      {
+        "field": "Epic Link",
+        "fieldtype": "custom",
+        "from": null,
+        "fromString": null,
+        "to": "10000",
+        "toString": "PROJECT-CODE-1"
+      }
+    ]
+  }
+}

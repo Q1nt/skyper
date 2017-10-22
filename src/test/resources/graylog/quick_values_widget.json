@@ -1,0 +1,21 @@
+{
+  "calculated_at": "2016-11-04T13:02:20.046Z",
+  "result": {
+    "missing": 0,
+    "other": 0,
+    "terms": {
+      "AemServiceStateDetector.java": 12,
+      "BaseAemServicePostConfigurator.java": 12,
+      "BaseUpdateDnsNamesService.java": 3,
+      "ErrorTransformer.java": 2,
+      "EventProcessor.java": 4,
+      "NessusProcessService.java": 2,
+      "OpenStackNotificationsDispatcher.java": 6,
+      "OpenStackUpdateInstancesProcessor.java": 3,
+      "SecurityCheckService.java": 2,
+      "ZabbixService.java": 20
+    },
+    "total": 66
+  },
+  "took_ms": 8
+}
